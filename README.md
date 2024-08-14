@@ -13,6 +13,7 @@ I will demonstrate my ability to use various **simple** HTML elements, including
 * Images
 * Paragraphs
 * Bold and italics
+* Line breaks
 * Much more...
 
 I have also learnt some simple __Markdown__ to make this README more visually appealing.
