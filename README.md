@@ -6,7 +6,7 @@ This is my first project following [The Odin Project](https://www.theodinproject
 
 ## What skills will be demonstrated in this project?
 
-I will demonstrate my ability to use various **simple** HTML elements, including:
+I will demonstrate my ability to use various *simple* HTML elements, including:
 
 * Headings
 * Ordered & unordered lists
@@ -16,4 +16,4 @@ I will demonstrate my ability to use various **simple** HTML elements, including
 * Line breaks
 * Much more...
 
-I have also learnt some simple __Markdown__ to make this README more visually appealing.
+I have also learnt some simple **Markdown** to make this README more visually appealing.
