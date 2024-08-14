@@ -12,7 +12,7 @@ I will demonstrate my ability to use various *simple* HTML elements, including:
 * Ordered & unordered lists
 * Images
 * Paragraphs
-* Bold and italics
+* **Bold** and *italics*
 * Line breaks
 * Much more...
 
